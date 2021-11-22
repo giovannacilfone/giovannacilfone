@@ -38,4 +38,4 @@ Consumiendo los datos de la API: https://pokeapi.co/ .
 ![LP7](https://user-images.githubusercontent.com/85120526/142801126-948571d7-d58a-4333-8218-e352891e552f.png)
 
 ## Datos de contacto
-***_Linkedin https://www.linkedin.com/in/giovanna-cilfone/_ **~**  _Gmail: giovannacilfone2@gmail.com_ :green_heart:***
+***_Linkedin: https://www.linkedin.com/in/giovanna-cilfone/_ **~**  _Gmail: giovannacilfone2@gmail.com_ :green_heart:***
