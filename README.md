@@ -24,6 +24,9 @@ Consumiendo los datos de la API: https://pokeapi.co/ .
 * Filtrar por pokemon con mayor y menor fuerza :heavy_check_mark:
 * Buscar por nombre :heavy_check_mark:
 * Crear un nuevo personaje :heavy_check_mark:
+
+### Imágenes del proyecto:
+
 ![LP](https://user-images.githubusercontent.com/85120526/142800472-0ecba1b4-fb2f-470d-aa4b-579d6bf6b8cc.png)
 
 ![LP`2](https://user-images.githubusercontent.com/85120526/142800477-5defe6b5-1966-456f-9465-28695b2667a9.png)
@@ -31,7 +34,7 @@ Consumiendo los datos de la API: https://pokeapi.co/ .
 ![LP4](https://user-images.githubusercontent.com/85120526/142800497-2ff8595e-7bc7-4f59-99e9-64e716c512d0.png)
 ![LP5](https://user-images.githubusercontent.com/85120526/142800645-be625869-474e-4e57-a56e-bf4fbf79b8c4.png)
 ![LP6](https://user-images.githubusercontent.com/85120526/142800686-dfc70537-e5a8-4e90-b603-1d9794b25ee0.png)
-![LP7](https://user-images.githubusercontent.com/85120526/142800765-c1576e08-1ee3-4c7c-924e-cb100d782874.png)
+![Uploading LP7.png…]()
 
 ## Datos de contacto
 ***_Linkedin https://www.linkedin.com/in/giovanna-cilfone/_ **~**  _Gmail: giovannacilfone2@gmail.com_ :green_heart:***
