@@ -18,7 +18,7 @@ Por otro lado, para el Back-End utilicé Express, NodeJS y PostgreSQL.
 Los estilos fueron aplicados con CSS, sin el uso de librerías externas.  
 Consumiendo los datos de la API: https://pokeapi.co/ .
 
-### Funcionalidades
+### Funcionalidades:
 * Filtrar por tipo de pokemon :heavy_check_mark:
 * Ordenar alfabéticamente :heavy_check_mark:
 * Filtrar por pokemon con mayor y menor fuerza :heavy_check_mark:
@@ -34,7 +34,8 @@ Consumiendo los datos de la API: https://pokeapi.co/ .
 ![LP4](https://user-images.githubusercontent.com/85120526/142800497-2ff8595e-7bc7-4f59-99e9-64e716c512d0.png)
 ![LP5](https://user-images.githubusercontent.com/85120526/142800645-be625869-474e-4e57-a56e-bf4fbf79b8c4.png)
 ![LP6](https://user-images.githubusercontent.com/85120526/142800686-dfc70537-e5a8-4e90-b603-1d9794b25ee0.png)
-![Uploading LP7.png…]()
+
+![LP7](https://user-images.githubusercontent.com/85120526/142801126-948571d7-d58a-4333-8218-e352891e552f.png)
 
 ## Datos de contacto
 ***_Linkedin https://www.linkedin.com/in/giovanna-cilfone/_ **~**  _Gmail: giovannacilfone2@gmail.com_ :green_heart:***
